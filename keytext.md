@@ -19,11 +19,10 @@
 ### Subtitle (30 chars max)
 Professional Quotes & Invoices
 
-### Keywords (100 chars max)
-quote,invoice,contractor,estimate,billing,PDF,pricing,proposal,service,template
+### Promotional Text (170 chars max)
+Create professional quotes & invoices on the go! 8 industry templates, custom branding, e-signature, and PDF export. Free to start — Pro is a one-time purchase.
 
 ### Description
-
 Create professional quotes and invoices in seconds — right from your iPhone or iPad.
 
 QuoteSnap is the fastest way for contractors, freelancers, and small business owners to generate, send, and track quotes and invoices. No more handwritten estimates or complicated software. Just tap, type, and send.
@@ -79,20 +78,8 @@ QuoteSnap is the fastest way for contractors, freelancers, and small business ow
 
 Start creating professional quotes today. Download QuoteSnap for free!
 
-### Promotional Text (170 chars max)
-New: Create professional quotes & invoices on the go! 8 industry templates, custom branding, e-signature, and PDF export. Free to start — Pro is a one-time purchase.
-
-### What's New in Version 1.0.0
-• Initial release of QuoteSnap!
-• Create professional quotes with 8 industry templates
-• Convert quotes to invoices
-• Custom branding with logo and brand colors
-• E-signature support
-• PDF generation and sharing
-• Client management with contacts import
-• iCloud sync for Pro users
-• Free tier: 3 quotes per month
-• Pro: one-time purchase, unlimited quotes
+### Keywords (100 chars max)
+quote,invoice,contractor,estimate,billing,PDF,pricing,proposal,service,template
 
 ---
 
@@ -119,9 +106,9 @@ Pro features include:
 
 | Page | URL |
 |------|-----|
-| Privacy Policy | https://zzoutuo.github.io/QuoteSnap/privacy |
-| Terms of Service | https://zzoutuo.github.io/QuoteSnap/terms |
-| Support | https://zzoutuo.github.io/QuoteSnap/support |
+| Privacy Policy | https://asunnyboy861.github.io/QuoteSnap-pages/privacy.html |
+| Terms of Service | https://asunnyboy861.github.io/QuoteSnap-pages/terms.html |
+| Support | https://asunnyboy861.github.io/QuoteSnap-pages/support.html |
 
 ---
 
