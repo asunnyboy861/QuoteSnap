@@ -1,0 +1,23 @@
+{
+  "identifier" : "QuoteSnap",
+  "products" : [
+    {
+      "displayPrice" : "9.99",
+      "familyShareable" : false,
+      "internalID" : "quotesnap_pro_001",
+      "localizations" : [
+        {
+          "description" : "Unlock unlimited quotes and all pro features",
+          "displayName" : "QuoteSnap Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.zzoutuo.QuoteSnap.pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
