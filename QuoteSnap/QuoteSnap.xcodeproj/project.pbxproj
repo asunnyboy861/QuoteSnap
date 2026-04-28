@@ -37,6 +37,7 @@
 		88C99B0712707CBADFA2E1C3 /* Invoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 401E46A32A3F8E4EABF1690E /* Invoice.swift */; };
 		9964A71B645DDFBEA9A16791 /* QuoteSnapApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D985118907C5DFBF9536F704 /* QuoteSnapApp.swift */; };
 		A0F7D8A72C43E214191F77C6 /* InvoiceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 862E4F4C5BE5A65AFCA937BC /* InvoiceService.swift */; };
+		A434D4006B04CAC678917577 /* Products.storekit in Resources */ = {isa = PBXBuildFile; fileRef = AFD734684A2D3DA8CAC74328 /* Products.storekit */; };
 		AC1EA0D36913FF66622461A6 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACECAE01CBDA0C37E4F1AA8 /* SettingsView.swift */; };
 		B734ED78F3DF4A1E3F188AB8 /* FreeQuoteCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8770FC0CD134B23AAAC06A0 /* FreeQuoteCounter.swift */; };
 		C038802BE4C680ECF739F414 /* InvoiceListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13F448C9C04330A6C793F85E /* InvoiceListView.swift */; };
@@ -74,6 +75,7 @@
 		96820D66743763896F62240A /* TemplateService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TemplateService.swift; sourceTree = "<group>"; };
 		9AA20CC2D94A98706BB80F99 /* Enums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Enums.swift; sourceTree = "<group>"; };
 		A144AF8F3A949BC9F5480CF2 /* InvoiceViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvoiceViewModel.swift; sourceTree = "<group>"; };
+		AFD734684A2D3DA8CAC74328 /* Products.storekit */ = {isa = PBXFileReference; path = Products.storekit; sourceTree = "<group>"; };
 		B8B655AD8CDDFA3FA620F5A7 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		C111CD51CCB2193B78DF1AE0 /* QuoteService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteService.swift; sourceTree = "<group>"; };
 		C502B852FB85DDBC91555F96 /* Color+Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Theme.swift"; sourceTree = "<group>"; };
@@ -215,6 +217,7 @@
 			children = (
 				D6577C88105B62A0A4900A65 /* Assets.xcassets */,
 				C5A4660B4A36A66B7C5CCB95 /* ContentView.swift */,
+				AFD734684A2D3DA8CAC74328 /* Products.storekit */,
 				D985118907C5DFBF9536F704 /* QuoteSnapApp.swift */,
 				A41E18C59691AD54CD206CB5 /* Models */,
 				B956A457F97D8B95ECEA572B /* Services */,
@@ -305,6 +308,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7351099B055B519CC73A2B1F /* Assets.xcassets in Resources */,
+				A434D4006B04CAC678917577 /* Products.storekit in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -433,6 +437,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -523,6 +528,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
