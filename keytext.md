@@ -82,7 +82,7 @@ quote,invoice,contractor,estimate,billing,PDF,pricing,proposal,service,template
 
 | Product | Display Name | Product ID | Type | Price |
 |---------|-------------|------------|------|-------|
-| QuoteSnap Pro | QuoteSnap Pro | com.zzoutuo.QuoteSnap.pro | Non-Consumable | $9.99 |
+| QuoteSnap Pro | QuoteSnap Pro | com.zzoutuo.QuoteSnap.premium | Non-Consumable | $9.99 |
 
 ### IAP Description
 Unlock unlimited quotes and all professional features with a single one-time purchase. No subscriptions, no recurring fees.
@@ -120,4 +120,4 @@ This app is a professional quote and invoice generator for contractors. Key func
 
 Demo account: Not required, the app works fully offline with local data.
 
-The Pro in-app purchase (com.zzoutuo.QuoteSnap.pro) can be tested using the StoreKit configuration file included in the project (Products.storekit).
+The Pro in-app purchase (com.zzoutuo.QuoteSnap.premium) can be tested using the StoreKit configuration file included in the project (Products.storekit).

@@ -8,7 +8,7 @@ final class PurchaseManager {
     var errorMessage: String?
     var displayPrice: String = "$9.99"
 
-    private let productID = "com.zzoutuo.QuoteSnap.pro"
+    private let productID = "com.zzoutuo.QuoteSnap.premium"
     private var product: Product?
 
     init() {

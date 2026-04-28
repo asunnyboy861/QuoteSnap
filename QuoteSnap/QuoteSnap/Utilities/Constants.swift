@@ -3,7 +3,7 @@ import Foundation
 struct Constants {
     static let freeMonthlyQuoteLimit = 3
     static let proPrice = "$9.99"
-    static let proProductID = "com.zzoutuo.QuoteSnap.pro"
+    static let proProductID = "com.zzoutuo.QuoteSnap.premium"
     static let appVersion = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String ?? "1.0.0"
     static let supportEmail = "zzoutuo@163.com"
     static let privacyPolicyURL = "https://asunnyboy861.github.io/QuoteSnap-pages/privacy.html"

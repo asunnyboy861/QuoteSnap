@@ -22,7 +22,7 @@ Non-Consumable In-App Purchase (One-Time Buyout)
 
 ### Pro Tier (Non-Consumable IAP)
 - **Reference Name**: QuoteSnap Pro
-- **Product ID**: com.zzoutuo.QuoteSnap.pro
+- **Product ID**: com.zzoutuo.QuoteSnap.premium
 - **Price**: $9.99 (USD)
 - **Type**: Non-consumable (One-time purchase, no renewal)
 - **Localization (English US)**:
@@ -46,7 +46,7 @@ Non-Consumable In-App Purchase (One-Time Buyout)
 2. Click "+" to create new IAP
 3. Select "Non-Consumable"
 4. Reference Name: QuoteSnap Pro
-5. Product ID: com.zzoutuo.QuoteSnap.pro
+5. Product ID: com.zzoutuo.QuoteSnap.premium
 6. Price: $9.99 (Tier 10)
 7. Add localization: English (US)
    - Display Name: QuoteSnap Pro
