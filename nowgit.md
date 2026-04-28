@@ -9,26 +9,25 @@
 | **Repo URL** | https://github.com/asunnyboy861/QuoteSnap |
 | **Visibility** | Public |
 | **Primary Language** | Swift |
-| **GitHub Pages** | ❌ **DISABLED** (iOS app distributed via App Store) |
+| **GitHub Pages** | ✅ **ENABLED** (from `/docs` folder) |
 
-## Policy Pages (Separate Repository)
+## Policy Pages (Deployed from Main Repository)
 
 | Item | Value |
 |------|-------|
-| **Repository Name** | QuoteSnap-pages |
-| **Git URL** | git@github.com:asunnyboy861/QuoteSnap-pages.git |
-| **Repo URL** | https://github.com/asunnyboy861/QuoteSnap-pages |
-| **Visibility** | Public |
+| **Repository** | QuoteSnap (main repo) |
+| **Pages Source** | `/docs` folder |
 | **GitHub Pages** | ✅ **ENABLED** |
 
 ### Deployed Pages
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/QuoteSnap-pages/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/QuoteSnap-pages/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/QuoteSnap-pages/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/QuoteSnap-pages/terms.html | ⏳ Pending |
+| Landing Page | https://asunnyboy861.github.io/QuoteSnap/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/QuoteSnap/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/QuoteSnap/privacy.html | ✅ Active |
+
+**Note**: Terms of Use not required for one-time purchase (non-consumable IAP) apps.
 
 ## Repository Structure
 
@@ -43,20 +42,19 @@ QuoteSnap/
 │       ├── Services/
 │       ├── ViewModels/
 │       └── Utilities/
+├── docs/                            # GitHub Pages (Policy Pages)
+│   ├── index.html                   # Landing Page
+│   ├── support.html                 # Support Page
+│   └── privacy.html                 # Privacy Policy
+├── .github/workflows/
+│   └── deploy.yml                   # GitHub Pages deployment
 ├── us.md                            # English Development Guide
 ├── keytext.md                       # App Store Metadata
 ├── capabilities.md                  # Capabilities Configuration
 ├── icon.md                          # App Icon Details
 ├── price.md                         # Pricing Configuration
+├── screenshots/                     # App Store Screenshots
+│   ├── ipad_*.png                   # iPad screenshots
+│   └── iphone_*.png                 # iPhone screenshots
 └── nowgit.md                        # This File
-```
-
-### Policy Pages Repository
-```
-QuoteSnap-pages/
-├── index.html                       # Landing Page
-├── support.html                     # Support Page
-├── privacy.html                     # Privacy Policy
-├── terms.html                       # Terms of Use
-└── .github/workflows/deploy.yml     # GitHub Pages deployment
 ```
